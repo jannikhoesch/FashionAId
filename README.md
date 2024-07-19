@@ -2,6 +2,8 @@
 
 This repository contains the code for our project developed during the [HackUPC](h[ttps://www.inditexhackathon.com/](https://hackupc.com/)). The challenge was proposed by Inditex, where participants were given a large dataset of images and were tasked with building an algorithm to calculate similarity scores. We showcased our solution through a React frontend.
 
+https://devpost.com/software/inditex-fashionaid
+
 ## About the Project
 We developed a solution that utilizes llava in a RAG architecture to extract features from images and compute their similarity. The project consists of two main components: a backend developed in Python with Flask and a frontend developed in React.
 
