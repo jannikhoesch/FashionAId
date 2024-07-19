@@ -1,6 +1,8 @@
 # Fashion AId
 Discover your next favorite clothing piece with just a click! Upload a picture and let FashionAId instantly recommend clothing that matches your style and preferences.
 
+![image](https://github.com/user-attachments/assets/9abbf694-9f22-499f-917d-4e86bed38b8d)
+
 ## What it does
 With FashionAId users can upload a product image or describe a product in text. The system analyzes these inputs and returns the closest matching items from our inditex database. Each recommendation includes the description of the product and the similarity score, based on this description.
 
